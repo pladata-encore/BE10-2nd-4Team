@@ -1,0 +1,31 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "main-container",
+    "home-app",
+    "theclass-app",
+    "watch-list-app",
+    "community-app",
+    "navigation-bar-app",
+    "google-authentication",
+    "kakao-authentication",
+    "login-page-app"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "start": "lerna run start --parallel"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "external-remotes-plugin": "^1.0.0",
+    "lerna": "^8.2.2"
+  },
+  "dependencies": {
+    "@module-federation/dts-plugin": "^0.15.0",
+    "@mui/material": "^7.1.1",
+    "react-icons": "^5.5.0",
+    "recoil": "^0.7.7",
+    "swiper": "^11.2.8"
+  }
+}
