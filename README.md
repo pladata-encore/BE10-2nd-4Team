@@ -94,6 +94,40 @@
 <br />
 <br />
 
+<details> <summary> ## ➡️페이지 작동 모습</summary> <div markdown="1">
+ 
+<img width="1886" height="907" alt="Image" src="https://github.com/user-attachments/assets/c8f42608-36e3-496e-a895-6258f8d9e9e4" />
+
+<img width="1737" height="867" alt="Image" src="https://github.com/user-attachments/assets/2157620b-feb7-4bf7-96d0-2a344418a292" />
+
+<img width="1742" height="871" alt="Image" src="https://github.com/user-attachments/assets/64fda700-d3f2-43c4-b3ce-9b80ce0f3d4f" />
+
+<img width="1896" height="883" alt="Image" src="https://github.com/user-attachments/assets/25d8aaa9-d6b2-4592-bc46-b432fddfa3f6" />
+
+<img width="1098" height="829" alt="Image" src="https://github.com/user-attachments/assets/5168860e-a54c-471b-9c53-e49276a01fce" />
+
+<img width="1253" height="855" alt="Image" src="https://github.com/user-attachments/assets/b5b3485d-54bc-47bb-b773-17c6aa7f6df2" />
+
+<img width="1178" height="791" alt="Image" src="https://github.com/user-attachments/assets/876a2f5c-d112-492e-90d8-774a11f4e765" />
+
+<img width="1088" height="857" alt="Image" src="https://github.com/user-attachments/assets/e2c89b5e-0528-40a0-ad7b-cf634d724bdc" />
+
+<img width="1028" height="831" alt="Image" src="https://github.com/user-attachments/assets/37821547-e17d-40c8-8b35-645ae340cc8d" />
+
+<img width="1067" height="886" alt="Image" src="https://github.com/user-attachments/assets/99b5cf0a-79e9-46ab-b909-e615933e9e23" />
+
+<img width="1027" height="873" alt="Image" src="https://github.com/user-attachments/assets/ea6180c7-74c2-4dcd-8d4f-5b14fba96294" />
+
+<img width="1435" height="831" alt="Image" src="https://github.com/user-attachments/assets/0bcf4e8c-1c3e-44a5-a47c-556fdf149eeb" />
+
+<img width="1265" height="834" alt="Image" src="https://github.com/user-attachments/assets/82509afa-2be0-4e6e-b255-6e3e69a873c8" />
+
+ </div>
+  </details>
+
+<br />
+<br />
+
 ## 😎 팀원
 
 <table>
